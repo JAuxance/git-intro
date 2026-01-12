@@ -16,6 +16,3 @@ Welcome to the **Git Intro Project**! This repository is designed to help you ge
    ```bash
    cd git-intro
    ```
-3. Explore the files and make changes as needed.
----
-
