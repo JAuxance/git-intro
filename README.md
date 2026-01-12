@@ -17,12 +17,5 @@ Welcome to the **Git Intro Project**! This repository is designed to help you ge
    cd git-intro
    ```
 3. Explore the files and make changes as needed.
-
-## 🤝 Contributing
-Feel free to fork this repository, make your changes, and submit a pull request. Contributions are always welcome!
-
-## 📜 License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
 ---
-Happy coding! 😊
+
