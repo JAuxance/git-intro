@@ -16,3 +16,4 @@ Welcome to the **Git Intro Project**! This repository is designed to help you ge
    ```bash
    cd git-intro
    ```
+   ---
