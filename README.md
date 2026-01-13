@@ -1,4 +1,4 @@
-# 🌟 Git Intro Project
+# 🐙 Git Intro Project
 
 Welcome to the **Git Intro Project**! This repository is designed to help you get started with Git and understand its basic concepts.
 
